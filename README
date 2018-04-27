@@ -1,0 +1,14 @@
+This is a small CNN that attempts to classify images from the CIFAR-10 dataset!
+
+To run please ensure that you have the following dependencies installed:
+	numpy
+	tensorflow
+	itertools
+	matplotlib
+
+To run, just type in "python3 cifar_classifier.py"
+	I use the "-u" flag personally because it takes a while to run!
+
+The program also outputs a small graph of training and validation accuracy per epoch.
+
+You should have around 70% accuracy with this as of 2018-04-27
